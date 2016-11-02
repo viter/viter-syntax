@@ -1,0 +1,11 @@
+{
+  "name": "viter",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Based on Mustang for Atom inspired by chelevra color scheme for Sublime Text",
+  "repository": "https://github.com/viter/viter-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
